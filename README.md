@@ -1,0 +1,2 @@
+# mala-journal
+mala ngetikk
